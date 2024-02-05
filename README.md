@@ -1,5 +1,5 @@
 - 👋  @lanini
-- 👀 Sou estudande do Colegio Estadual Rui Barbosa 2-Ano ´B` estou aprendendo HTML E CSS
+- 👀 Sou estudande do Colegio Estadual Rui Barbosa 3-Ano ´B` estou aprendendo HTML E CSS
 - 💞️ gabriel.roque@escola.pr.gov.br
 - 📫 
 <!---
